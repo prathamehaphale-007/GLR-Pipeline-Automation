@@ -19,13 +19,7 @@ This application streamlines the insurance reporting process by automatically ex
 
 ## 📦 Installation
 
-1.  **Clone the repository:**
-    ```bash
-    git clone [https://github.com/yourusername/glr-automation.git](https://github.com/yourusername/glr-automation.git)
-    cd glr-automation
-    ```
-
-2.  **Install dependencies:**
+    **Install dependencies:**
     ```bash
     pip install streamlit groq python-docx pymupdf docx2pdf
     ```
